@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
+  m_Name: StepOutOfChamber
+  m_EditorClassIdentifier: 
+  storyText: "You push yourself out of the pod, but your legs don't yet work the way
+    you want them to. You try to wobble your way out, and had there been gravity,
+    you would have surely fell to the ground. Instead, you shoot yourself against
+    the white panels of the ceiling. Your arms are also not very responsive and you
+    fail to raise them as your face meets the polymer. As you turn weightless a siren
+    begins wailing somewhere in the distance. You open your eyes and see the Medical
+    Bay coridor light up in red. \n\n1. Steady yourself and examine the situation."
+  nextStates: []

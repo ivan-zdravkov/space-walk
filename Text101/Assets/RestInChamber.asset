@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
+  m_Name: RestInChamber
+  m_EditorClassIdentifier: 
+  storyText: 'You need a moment to gather yourself. You close your eyes and clear
+    your mind. You feel the tips of your fingers, the hairs of your neck, the calming
+    pulse of the fluorescent lighting. As the pain settles and your body begins to
+    recalibrate itself, a loud siren wails in the distant coridors. You hear the sound
+    coming from the left. The medical bay. You were there just 10 minutes ago for
+    the final checkups. 10 minutes relative time atleast. You must now be 2.5 light
+    years away from the Earth you knew and the people you outlived by 10 generations.
+
+
+    1. Force yourself out of the pod...
+
+    2. Stay in the pod. Someone will take care of it, and you need a bit more time
+    to rest...'
+  nextStates: []
