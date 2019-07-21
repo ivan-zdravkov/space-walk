@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
-  m_Name: StepOutOfChamber
+  m_Name: A2.1. Step Out Of Chamber
   m_EditorClassIdentifier: 
   storyText: "You push yourself out of the pod, but your legs don't yet work the way
     you want them to. You try to wobble your way out, and had there been gravity,
@@ -18,5 +18,5 @@ MonoBehaviour:
     the white panels of the ceiling. Your arms are also not very responsive and you
     fail to raise them as your face meets the polymer. As you turn weightless a siren
     begins wailing somewhere in the distance. You open your eyes and see the Medical
-    Bay coridor light up in red. \n\n1. Steady yourself and examine the situation."
+    Bay coridor light up in red. \n\n1. Steady yourself and examine the situation"
   nextStates: []

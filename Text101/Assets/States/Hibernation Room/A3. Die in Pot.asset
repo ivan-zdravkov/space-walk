@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
+  m_Name: A3. Die in Pot
+  m_EditorClassIdentifier: 
+  storyText: 'You rest for a bit more. You zone out the blaring alarm and try to meditate
+    yourself into getting up. Soon you are alone with your breath and thoughts. No
+    visuals, no sounds, only... serenity. Your breathing comes to a halt as you join
+    Nirvana. You do not know if it was the hibernation sickness or your advanced focusing
+    training that didn''t alert you to the smoke entering the room and the rising
+    CO2 levels caused by the fire in the Medical Bay. Your last quiet thougts flicker
+    and then extinguish as your body is engulfed in flames.
+
+    THE END.
+
+
+    1. Try again'
+  nextStates:
+  - {fileID: 11400000, guid: 5525a8ef616296f4386c0e1bc3d98850, type: 2}
