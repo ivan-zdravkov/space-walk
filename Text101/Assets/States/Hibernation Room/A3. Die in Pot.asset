@@ -20,9 +20,10 @@ MonoBehaviour:
     CO2 levels caused by the fire in the Medical Bay. Your last quiet thougts flicker
     and then extinguish as your body is engulfed in flames.
 
+
     THE END.
 
 
-    1. Try again'
+    1. Try again.'
   nextStates:
   - {fileID: 11400000, guid: 5525a8ef616296f4386c0e1bc3d98850, type: 2}

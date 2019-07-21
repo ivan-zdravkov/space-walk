@@ -10,12 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
-  m_Name: Intro
+  m_Name: To Be Continued
   m_EditorClassIdentifier: 
-  storyText: 'Welcome to "Space Walk". Choose your path through the ship to safety.
-    Chose your path, pressing 1, 2 or 3. Press ''R'' to restart.
+  storyText: 'TO BE CONTINUED...
 
 
-    1. Start'
+    You made it out to alive... for now. If you wanna know how the story goes, give
+    me a shout at ivan@zdravkov.eu or linkedin.com/in/ivan-zdravkov/.
+
+
+    1. Try again.'
   nextStates:
-  - {fileID: 11400000, guid: 6d5a9a8ee4a082145bedf4ceeb40e38c, type: 2}
+  - {fileID: 11400000, guid: 5525a8ef616296f4386c0e1bc3d98850, type: 2}

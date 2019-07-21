@@ -21,10 +21,10 @@ MonoBehaviour:
     years away from the Earth you knew and the people you outlived by 10 generations.
 
 
-    1. Force yourself out of the pod
+    1. Force yourself out of the pod.
 
     2. Stay in the pod. Someone will take care of it, and you need a bit more time
-    to rest'
+    to rest.'
   nextStates:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 9386a74c782e1bf41bd995b1087282ff, type: 2}
   - {fileID: 11400000, guid: e537d584f3d3a6d46a7eb057407e1b0e, type: 2}

@@ -17,8 +17,8 @@ MonoBehaviour:
     of your muscles. They have trained you for this back in the academy, but given
     that hibernations shortens your life span, this is your first time actually going
     under. The ice baths back home really don't do justice to the nausiating feeling
-    all the firing neurons in your brain cause.\r\n\r\n1. Step out of the chamber\n2.
-    Close your eyes and take a few deep breaths\n"
+    all the firing neurons in your brain cause.\r\n\r\n1. Step out of the chamber.\n2.
+    Close your eyes and take a few deep breaths.\n"
   nextStates:
   - {fileID: 11400000, guid: 9386a74c782e1bf41bd995b1087282ff, type: 2}
   - {fileID: 11400000, guid: aef7dc1cdef83144989813a5916194d9, type: 2}

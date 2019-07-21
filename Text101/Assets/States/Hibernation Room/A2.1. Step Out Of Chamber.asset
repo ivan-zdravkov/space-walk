@@ -16,7 +16,8 @@ MonoBehaviour:
     you want them to. You try to wobble your way out, and had there been gravity,
     you would have surely fell to the ground. Instead, you shoot yourself against
     the white panels of the ceiling. Your arms are also not very responsive and you
-    fail to raise them as your face meets the polymer. As you turn weightless a siren
-    begins wailing somewhere in the distance. You open your eyes and see the Medical
-    Bay coridor light up in red. \n\n1. Steady yourself and examine the situation"
-  nextStates: []
+    fail to raise them as your face meets the polymer. As you turn weightless you
+    hear a wailing siren. You open your eyes and see the Medical Bay coridor light
+    up in red. \n\n1. Steady yourself and examine the situation."
+  nextStates:
+  - {fileID: 11400000, guid: 72d2d20b3cbab034ab69c12727f75a99, type: 2}
