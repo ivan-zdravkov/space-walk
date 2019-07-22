@@ -12,19 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
   m_Name: A2.2. Rest In Chamber
   m_EditorClassIdentifier: 
-  storyText: 'You need a moment to gather yourself. You close your eyes and clear
+  storyText: "You need a moment to gather yourself. You close your eyes and clear
     your mind. You feel the tips of your fingers, the hairs of your neck, the calming
     pulse of the fluorescent lighting. As the pain settles and your body begins to
-    recalibrate itself, a loud siren wails in the distant coridors. You hear the sound
-    coming from the left. The medical bay. You were there just 10 minutes ago for
-    the final checkups. 10 minutes relative time atleast. You must now be 2.5 light
-    years away from the Earth you knew and the people you outlived by 10 generations.
-
-
-    1. Force yourself out of the pod.
-
-    2. Stay in the pod. Someone will take care of it, and you need a bit more time
-    to rest.'
+    recalibrate itself, a loud siren wails in the distance. You hear the sound coming
+    from the left. The medical bay. You were there just 10 minutes ago for the final
+    checkups. 10 minutes relative time at least. You must now be 2.5 light years away
+    from the Earth you knew and the people you outlived by 10 generations.\r\n\r\n1.
+    Force yourself out of the pod.\r\n2. Stay in the pod. Someone will take care of
+    it, and you need a bit more time to rest.\r\n"
   nextStates:
   - {fileID: 11400000, guid: 9386a74c782e1bf41bd995b1087282ff, type: 2}
   - {fileID: 11400000, guid: e537d584f3d3a6d46a7eb057407e1b0e, type: 2}

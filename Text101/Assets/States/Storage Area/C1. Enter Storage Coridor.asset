@@ -12,13 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
   m_Name: C1. Enter Storage Coridor
   m_EditorClassIdentifier: 
-  storyText: 'You rush to the storage coridor, just as the safety procedures activate
-    and the air of the rooms you were just in vent into space. Your crew member''s
-    might survive the vacuum of space in their hibernation pods, or so you hope. No
-    point dwelling on that now. You should get to the command deck and try to figure
-    out why everything went wrong.
-
-
-    1. Continue.'
+  storyText: "You rush to the storage corridor, just as the safety procedures activate,
+    the gate closses and the air of the rooms you were just in vent into space. Your
+    crew members might survive the vacuum of space in their hibernation pods, or so
+    you hope. No point dwelling on that now. You should get to the command deck and
+    try to figure out what went wrong.\r\n\r\n1. Continue.\r\n"
   nextStates:
   - {fileID: 11400000, guid: 9ade28206409c6d4caf063f92aa98afd, type: 2}

@@ -12,15 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
   m_Name: B1 Try To Put Out Fire
   m_EditorClassIdentifier: 
-  storyText: 'The fire has already engulfed the room. You grab a fire extinguisher,
-    but hesitate.
-
-
-    1. Try to put out the fire.
-
-    2. Try to wake your crew members.
-
-    3. Escape the fire to the storage coridor.'
+  storyText: "The fire has already engulfed the room. You grab a fire extinguisher
+    but hesitate.\r\n\r\n1. Try to put out the fire.\r\n2. Try to wake your crew members.\r\n3.
+    Escape the fire to the storage corridor.\r\n"
   nextStates:
   - {fileID: 11400000, guid: 179f5d3eaf545a94488ce08b33397947, type: 2}
   - {fileID: 11400000, guid: ee18315cd99d66047982408ff9df62ec, type: 2}

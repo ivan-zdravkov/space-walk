@@ -12,17 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
   m_Name: B2 Die In Medical Bay
   m_EditorClassIdentifier: 
-  storyText: 'You aim the fire extinguisher to the base of the flames. You didn''t
+  storyText: "You aim the fire extinguisher to the base of the flames. You didn't
     account for the lack of gravity, and pulling the lever launches you into the wall.
-    The push back from the wall launches you straight into the flames. You die painfully
-    in flames, desperately fighting to get a grab of something.
-
-
-    THE END.
-
-
-    1. Try again.
-
-'
+    The push back from the wall takes you straight into the flames. You die painfully,
+    screaming, desperately fighting to get a grab of something.\r\n\r\nTHE END.\r\n\r\n1.
+    Try again.\r\n"
   nextStates:
   - {fileID: 11400000, guid: 5525a8ef616296f4386c0e1bc3d98850, type: 2}

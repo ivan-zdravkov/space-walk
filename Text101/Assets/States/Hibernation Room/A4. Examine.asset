@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: A4. Examine
   m_EditorClassIdentifier: 
   storyText: "You look around the room and see the other 5 pods of your team members
-    undistrubed. Noone is up, but you. Their bodies lie in the blue tint of hibernation
-    sleep. The medical oficer should have been the first to wake, and prepare everyone
-    else for safe awakaning process. Something is really off. You turn to the Medical
-    Bay and hear hear fire cracking and smoke coming through the gate. You try to
-    seal and vent the room, but the controls are not responding. \n\n1. Go to the
-    Medical Bay and try to put out the fire.\n2. Try to wake your crew members.\n3.
-    Escape the fire to the storage coridor."
+    undisturbed. No one is up, but you. Their bodies lie in the blue tint of hibernation
+    sleep. The medical officer should have been the first to wake, and prepare everyone
+    else for safe awakening process. Something is really off. You turn to the Medical
+    Bay and hear fire cracking and smoke coming through the gate. You try to seal
+    and vent the room, but the controls are not responding. \r\n\r\n1. Go to the Medical
+    Bay and try to put out the fire.\r\n2. Try to wake your crew members.\r\n3. Escape
+    the fire to the storage corridor.\r\n"
   nextStates:
   - {fileID: 11400000, guid: d7901a2fe686cd142b5417b1b86d1b7e, type: 2}
   - {fileID: 11400000, guid: ee18315cd99d66047982408ff9df62ec, type: 2}

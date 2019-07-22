@@ -12,10 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
   m_Name: Intro
   m_EditorClassIdentifier: 
-  storyText: 'Welcome to "Space Walk". Choose your path through the ship to safety.
-    Chose your path, pressing 1, 2 or 3. Press ''R'' to restart.
-
-
-    1. Start'
+  storyText: "Welcome to \"Space Walk\". \nChoose your path through the ship to safety.\nChoose
+    your path by pressing 1, 2 or 3.\nPress 'R' to restart.\n\n1. Start"
   nextStates:
   - {fileID: 11400000, guid: 6d5a9a8ee4a082145bedf4ceeb40e38c, type: 2}

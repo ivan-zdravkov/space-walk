@@ -17,7 +17,7 @@ MonoBehaviour:
     you would have surely fell to the ground. Instead, you shoot yourself against
     the white panels of the ceiling. Your arms are also not very responsive and you
     fail to raise them as your face meets the polymer. As you turn weightless you
-    hear a wailing siren. You open your eyes and see the Medical Bay coridor light
-    up in red. \n\n1. Steady yourself and examine the situation."
+    hear a wailing siren. You open your eyes and see the Medical Bay light up in red.\r\n\r\n1.
+    Steady yourself and examine the situation.\r"
   nextStates:
   - {fileID: 11400000, guid: 72d2d20b3cbab034ab69c12727f75a99, type: 2}

@@ -12,14 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a06efd1c00c88674292e125c94310562, type: 3}
   m_Name: A6. Try To Open Pods
   m_EditorClassIdentifier: 
-  storyText: 'You start to force the doors to open, but they do not move. You break
+  storyText: "You start to force the doors to open, but they do not move. You break
     a piece of the rail in your own pod and try using it as a lever. The fire is starting
-    to engulf the hibernation room.
-
-
-    1. Start bashing the pod doors.
-
-    2. Escape the fire to the storage coridor.'
+    to engulf the hibernation room.\r\n\r\n1. Start bashing the pod doors.\r\n2. Escape
+    the fire to the storage corridor.\r\n"
   nextStates:
   - {fileID: 11400000, guid: a022bd531e4317b4980e93b3437388af, type: 2}
   - {fileID: 11400000, guid: 84ac266937b82b642972eb28ed483578, type: 2}
